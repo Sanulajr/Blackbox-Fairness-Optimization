@@ -127,7 +127,4 @@ Similar fairness improvements are observed, demonstrating that the approach gene
 ## Ethical Considerations
 Although data poisoning is traditionally associated with malicious attacks, this work explores its **ethical and defensive potential**. All experiments were conducted in controlled academic settings for research purposes only.
 
-## Citation
-If you use or reference this work, please cite it as an academic project conducted at MBZUAI.
-
 ---
