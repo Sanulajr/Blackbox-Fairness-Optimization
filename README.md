@@ -1,4 +1,4 @@
-# Attack4Good: Fairness-Oriented Black-Box Data Poisoning
+# Fairness-Oriented Black-Box Data Poisoning
 
 
 ## Abstract
