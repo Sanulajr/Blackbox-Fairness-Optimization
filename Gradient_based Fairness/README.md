@@ -1,11 +1,11 @@
 # Gradient_based Fairness (Appendix)
 This code relies on the code from the paper for "Poisoning Attacks on Algorithmic Fairness", ECML 2020. 
-One can find out the link in our reference 
+One can find out the link in the reference 
 (https://arxiv.org/abs/2004.07401)
 
 
 ## Introduction
-We followed the method of the paper above which implemented fairness attack through gradient-based update way. By changing the optimization objective and constraint, we aimed at improving the fairness of the trained classifier. 
+I followed the method of the paper above which implemented fairness attack through gradient-based update way. By changing the optimization objective and constraint, I aimed at improving the fairness of the trained classifier. 
 Code is based on a fork of [SecML](https://secml.github.io/), adapted with new target functions allowing optimize the attacks against Algorithmic Fairness. 
 
 ## How to use and extend

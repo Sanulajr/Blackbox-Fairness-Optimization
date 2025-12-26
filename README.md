@@ -9,7 +9,7 @@ This project investigates a different direction: **leveraging black-box data poi
 ## Project Context
 - **Course:** ML701 – Machine Learning  
 - **Institution:** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)  
-- **Type:** Individual final project  
+- **Type:** Individual project  
 - **Focus Areas:**  
   - Fairness in Machine Learning  
   - Adversarial Learning  
